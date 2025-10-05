@@ -13,6 +13,7 @@ pymongo==4.10.1
 To install the required packages, run:
     intially install Python 3.8 , from https://www.python.org/downloads/
     install cmake form https://cmake.org/download/
+    install dlib by the link provided to "dlib-19.22.99-cp38-cp38-win_amd64" version
     pip install cmake
     python -m venv .venv           # create a virtual environment
     .\.venv\Scripts\activate       # activate it
